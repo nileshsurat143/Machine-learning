@@ -2,8 +2,6 @@
 """
 
 
-@author: Fahad Hussain
-"""
 
 !pip3 install xgboost
 
