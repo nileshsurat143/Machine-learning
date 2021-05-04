@@ -5,11 +5,6 @@ Created on Sun Jul 26 10:29:55 2020
 @author: nil
 """
 
-# -*- coding: utf-8 -*-
-"""
-@author: Fahad Hussain
-"""
-
 
 from sklearn.utils import resample
 
